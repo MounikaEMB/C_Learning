@@ -13,7 +13,18 @@ int main(){
             count++;
         }
     }
-    printf("Count is %d",count);
+    printf("Count of %d in Array is  %d", x,count);
 
     return 0;
 }
+
+/*
+Enter a number1
+a[1]=1
+a[1]=3
+a[1]=4
+a[1]=1
+a[1]=2
+a[1]=1
+Count is 3
+*/
